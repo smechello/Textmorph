@@ -445,6 +445,7 @@ proto-plus==1.26.1
 protobuf==5.29.5
 psutil==5.9.5
 psycopg2==2.9.10
+psycopg2-binary==2.9.10
 psygnal==0.14.1
 ptyprocess==0.7.0
 py-cpuinfo==9.0.0
