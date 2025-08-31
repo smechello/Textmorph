@@ -1,29 +1,22 @@
 streamlit
-sqlite3-_stub
-# torch and transformers are the heavy ones for AI models
-torch
-transformers
-sentencepiece
-sacremoses
-# Other app dependencies
 pandas
 matplotlib
-fpdf2
+fpdf
 textblob
+transformers
+torch
 plotly
-requests
-Pillow
 streamlit-lottie
-sqlalchemy
+Pillow
+requests
 streamlit-extras
-SpeechRecognition
+speechrecognition
 pyttsx3
 googletrans==4.0.0-rc1
 python-docx
 PyPDF2
-streamlit_mic_recorder
+streamlit-mic-recorder
 textstat
 evaluate
-rouge_score
+rouge-score
 datasets
-google-generativeai
